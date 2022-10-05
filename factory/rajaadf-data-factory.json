@@ -1,0 +1,9 @@
+{
+	"name": "rajaadf-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d48e2c70-eeb9-4b10-b6bd-9a0e80a424ff",
+		"tenantId": "d52c9ea1-7c21-47b1-82a3-33a74b1f74b8"
+	}
+}
